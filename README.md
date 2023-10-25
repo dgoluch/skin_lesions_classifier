@@ -7,7 +7,7 @@ Dataset:
 
 Hair removal:
 
- ![obraz](https://github.com/dgoluch/skin_lesions_classifier/assets/83806144/d0e4906a-d2bb-49fb-986b-1a56ebe5210e)
+ ![obraz](https://github.com/dgoluch/skin_lesions_classifier/assets/83806144/f42e4a97-2ef5-47f6-a9fb-03dc94b5fa50)
 
 
 Results:
